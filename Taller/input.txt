@@ -1,0 +1,7 @@
+5
+str
+ada
+java
+cpp
+alma
+
