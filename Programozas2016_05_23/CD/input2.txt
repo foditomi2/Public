@@ -1,0 +1,12 @@
+Munkába Járó András 12345678 6:30 9
+Munkába Járó András 12345678 8:30 10
+Munkába Járó András 12345678 10:30 7E
+Munkába Járó András 12345678 11:30 4
+Proffessor Géza 87654321 14:30 5
+Proffessor Géza 87654321 17:30 7E
+Proffessor Géza 87654321 6:30 9
+Proffessor Géza 87654321 8:30 10
+Nagy Tamás 22222222 11:30 4
+Nagy Tamás 22222222 12:30 9
+Nagy Tamás 22222222 14:30 7E
+Nagy Tamás 22222222 17:30 9
